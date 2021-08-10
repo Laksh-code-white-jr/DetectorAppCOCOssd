@@ -1,0 +1,19 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas{
+    border: 10px dashed green;
+    border-radius: 20px;
+    box-shadow:hotpink 5px 5px 45px;
+    
+}
